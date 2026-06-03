@@ -1,6 +1,6 @@
-# 🚀 DuPido Technologies
+# 🚀 Dupido Technologies
 
-Welcome to **DuPido Technologies** — a future-focused project building systems in AI, cloud computing, and high-performance infrastructure.
+Welcome to **Dupido Technologies** — a future-focused project building systems in AI, cloud computing, and high-performance infrastructure.
 
 ---
 
@@ -10,7 +10,7 @@ This repository powers our official website:
 👉 https://dupidotechnologies.me (coming soon / in setup)
 
 Or GitHub Pages version:
-👉 https://yourusername.github.io/dupidotechnologies-site
+👉 https://github.com/MuhammadAsim8528/dupidotechnologies-site/edit/main/README.md
 
 ---
 
